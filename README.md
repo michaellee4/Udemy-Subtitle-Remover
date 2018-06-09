@@ -9,4 +9,4 @@ Note, I've only every encountered .srt and .vtt, feel free to add any extensions
 To compile simply run 
 g++ driver.cpp -o driver -std=c++17 -lstdc++fs
 
-And to use call ./driver <course path here>
+And to use call ./driver /text{<course path here>}
